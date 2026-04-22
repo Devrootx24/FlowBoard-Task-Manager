@@ -1,2 +1,2 @@
-# FlowBoard-Task-Manager
+# FlowBoard-Task-Manager  https://snazzy-wisp-b80662.netlify.app/
 Task Manager Web App (Kanban Board) is a fully responsive and dynamic productivity application designed to help users organize tasks efficiently using a visual Kanban-style workflow.  This project is built using pure HTML, CSS, and Vanilla JavaScript, making it lightweight, fast, and easy to understand for beginners and developers.
